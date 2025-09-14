@@ -1,0 +1,13 @@
+# OS junk (safe to keep, doesn’t hurt)
+.DS_Store
+Thumbs.db
+
+# KiCad backups / autosaves / lockfiles
+*.lck
+*.bak
+*-backups/
+_autosave-*
+\#auto_saved_files#
+fp-info-cache*
+*.kicad_prl
+
