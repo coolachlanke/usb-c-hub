@@ -205,12 +205,14 @@
 		(at -3.2 -2.38)
 		(size 0.55 1.1)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+		(zone_connect 2)
 		(uuid "bf1d0ae6-5744-435d-a7de-134709a3e9ef")
 	)
 	(pad "A1" smd rect
 		(at 3.2 -2.38)
 		(size 0.55 1.1)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+		(zone_connect 2)
 		(uuid "6206b467-7b4d-423d-b87a-7a963d7a2de3")
 	)
 	(pad "A4" smd rect
@@ -279,6 +281,7 @@
 		(drill oval 0.599999 1.499997)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
+		(zone_connect 2)
 		(uuid "1eedf6bb-f18e-4dce-ae31-3e135d278109")
 	)
 	(pad "S1" thru_hole oval
@@ -287,6 +290,7 @@
 		(drill oval 0.599999 1.199998)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
+		(zone_connect 2)
 		(uuid "8105b02a-b047-48ed-ba8e-94c0c6d74a93")
 	)
 	(pad "S1" thru_hole oval
@@ -295,6 +299,7 @@
 		(drill oval 0.599999 1.500022)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
+		(zone_connect 2)
 		(uuid "212a2027-5804-42ad-b189-ee313b0d62c8")
 	)
 	(pad "S1" thru_hole oval
@@ -303,6 +308,7 @@
 		(drill oval 0.599999 1.199998)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
+		(zone_connect 2)
 		(uuid "c91c7c27-72f3-4f1d-9413-a24a56c9b581")
 	)
 	(embedded_fonts no)
